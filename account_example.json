@@ -1,0 +1,1751 @@
+{
+    "item": {
+        "item_id": 109738761,
+        "item_state": "active",
+        "category_id": 1,
+        "published_date": 1712141832,
+        "title": "Cs 2 prime 5 medals",
+        "description": "",
+        "price": 1599,
+        "update_stat_date": 0,
+        "refreshed_date": 1712141832,
+        "view_count": 3,
+        "is_sticky": 0,
+        "item_origin": "resale",
+        "extended_guarantee": 0,
+        "nsb": 0,
+        "allow_ask_discount": 1,
+        "title_en": "Cs 2 prime 5 medals",
+        "description_en": "",
+        "email_type": "",
+        "is_reserved": 0,
+        "item_domain": "experimemail.com",
+        "active_auction": 0,
+        "resale_item_origin": "fishing",
+        "note_text": null,
+        "content_type": null,
+        "content_id": null,
+        "delete_date": null,
+        "delete_user_id": null,
+        "delete_username": null,
+        "delete_reason": null,
+        "user_allow_ask_discount": 1,
+        "max_discount_percent": 10,
+        "market_custom_title": "",
+        "feedback_data": "{\"1\":{\"positive\":5,\"negative\":0}}",
+        "buyer_avatar_date": null,
+        "buyer_user_group_id": null,
+        "buyer_secondary_group_ids": null,
+        "is_fave": null,
+        "in_cart": null,
+        "cart_price": null,
+        "steam_item_id": 109738761,
+        "account_country": "Malaysia",
+        "steam_register_date": 1596240000,
+        "steam_last_activity": 1708858701,
+        "account_full_games": {
+            "list": {
+                "730": {
+                    "appid": 730,
+                    "playtime_forever": 691.75,
+                    "internal_game_id": 3,
+                    "abbr": "CS2 Prime",
+                    "title": "CS2 Prime",
+                    "parentGameId": 730,
+                    "img": "https://steamcdn-a.akamaihd.net/steam/apps/730/header.jpg"
+                },
+                "444090": {
+                    "appid": 444090,
+                    "playtime_forever": 16.95,
+                    "internal_game_id": 14,
+                    "abbr": "Paladins",
+                    "title": "Paladins",
+                    "parentGameId": 444090,
+                    "img": "https://steamcdn-a.akamaihd.net/steam/apps/444090/header.jpg"
+                },
+                "570": {
+                    "appid": 570,
+                    "playtime_forever": 16.53,
+                    "internal_game_id": 2,
+                    "abbr": "Dota 2",
+                    "title": "Dota 2",
+                    "parentGameId": 570,
+                    "img": "https://steamcdn-a.akamaihd.net/steam/apps/570/header.jpg"
+                },
+                "466240": {
+                    "appid": 466240,
+                    "playtime_forever": 0.75,
+                    "internal_game_id": 860,
+                    "abbr": "Deceit",
+                    "title": "Deceit",
+                    "parentGameId": 466240,
+                    "img": "https://steamcdn-a.akamaihd.net/steam/apps/466240/header.jpg"
+                },
+                "440": {
+                    "appid": 440,
+                    "playtime_forever": 0.28,
+                    "internal_game_id": 6,
+                    "abbr": "Team Fortress 2",
+                    "title": "Team Fortress 2",
+                    "parentGameId": 440,
+                    "img": "https://steamcdn-a.akamaihd.net/steam/apps/440/header.jpg"
+                },
+                "1085660": {
+                    "appid": 1085660,
+                    "playtime_forever": 0,
+                    "internal_game_id": 4744,
+                    "abbr": "Destiny 2",
+                    "title": "Destiny 2",
+                    "parentGameId": 1085660,
+                    "img": "https://steamcdn-a.akamaihd.net/steam/apps/1085660/header.jpg"
+                }
+            },
+            "total": 13
+        },
+        "account_community_ban": 0,
+        "account_bans": "",
+        "steam_csgo_profile_rank": 17,
+        "account_balance": "RM0.02",
+        "account_csgo_rank_id": 13,
+        "last_update_time": 1712141832,
+        "steam_is_limited": 0,
+        "steam_level": 2,
+        "steam_friend_count": 40,
+        "steam_csgo_last_activity": 1708269701,
+        "steam_dota2_solo_mmr": 0,
+        "steam_csgo_ban_date": 0,
+        "steam_converted_balance": 0,
+        "steam_pubg_inv_value": -1,
+        "steam_csgo_inv_value": 0,
+        "steam_dota2_inv_value": -1,
+        "steam_tf2_inv_value": -1,
+        "steam_rust_inv_value": -1,
+        "steam_csgo_wingman_rank_id": 0,
+        "steam_game_count": 13,
+        "steam_steam_inv_value": -1,
+        "steam_inv_value": 0,
+        "steam_csgo_win_count": 12,
+        "steam_dota2_game_count": 17,
+        "steam_dota2_lose_count": 11,
+        "steam_dota2_win_count": 6,
+        "steam_hours_played_recently": "0.00",
+        "steam_faceit_level": 0,
+        "steam_points": 1832,
+        "steam_last_transaction_date": 1628467200,
+        "steam_relevant_game_count": 6,
+        "steam_gift_count": 0,
+        "steam_limit_spent": "",
+        "steam_dota2_behavior": 9100,
+        "steam_has_faceit": 0,
+        "steam_mfa": 0,
+        "steam_market": 0,
+        "steam_market_restrictions": 16544,
+        "steam_market_ban_end_date": 1713437802,
+        "steam_unturned_inv_value": -1,
+        "steam_csgo_last_launched": 1708261637,
+        "steam_kf2_inv_value": -1,
+        "steam_dst_inv_value": -1,
+        "steam_cs2_premier_elo": 0,
+        "steam_has_activated_keys": 0,
+        "steam_csgo_ban_type": 0,
+        "steam_rust_kill_player": 0,
+        "steam_rust_deaths": 0,
+        "steam_total_gifts_rub": 0,
+        "steam_total_refunds_rub": 0,
+        "steam_total_ingame_rub": 1479,
+        "steam_total_games_rub": 0,
+        "steam_total_purchased_rub": 0,
+        "canResellItem": false,
+        "itemOriginalOrigin": "fishing",
+        "resellItemId": 103750550,
+        "guarantee": {
+            "duration": 86400,
+            "class": "simpleGuarantee",
+            "durationPhrase": "24 часа",
+            "endDate": null,
+            "active": null,
+            "cancelled": null,
+            "remainingTime": null
+        },
+        "canViewLoginData": false,
+        "canUpdateItemStats": false,
+        "canViewEmailLoginData": false,
+        "showGetEmailCodeButton": false,
+        "buyer": null,
+        "isPersonalAccount": false,
+        "sold_items_category_count": 4245,
+        "restore_items_category_count": 43,
+        "rub_price": 1599,
+        "price_currency": "rub",
+        "canValidateAccount": false,
+        "canResellItemAfterPurchase": true,
+        "steamData": {
+            "steam_ban_type_id": []
+        },
+        "steamRelevantGameCount": 6,
+        "isSmallExf": false,
+        "account_last_activity": 1708858701,
+        "hasCsgo": true,
+        "hasDota2": true,
+        "hasPubg": false,
+        "hasTf2": true,
+        "hasRust": false,
+        "steam_csgo_ban_date_active": false,
+        "displayConvertedBalance": true,
+        "inventoryValue": {
+            "730": {
+                "title": "CS2",
+                "value": 0,
+                "column": "steam_csgo_inv_value"
+            }
+        },
+        "steamCsgoMedals": [
+            {
+                "title": "2021 Service Medal",
+                "medal_id": 242,
+                "image_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Ux7P_efWwMuozvkdOJxafyNuLUlDMFupEl3rvH9tWj0FXnqEJuam6gIoOUIAc6NEaQpAZnUMgZRQ"
+            },
+            {
+                "title": "2022 Service Medal",
+                "medal_id": 238,
+                "image_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Uy7P_efWwM7Yy1xNndkqOkYe-EwToFupcojLiQ8N2n31Li-0U_ajj1II7Ae1I7YEaQpAaH9zkJ-Q"
+            },
+            {
+                "title": "2023 Service Medal",
+                "medal_id": 240,
+                "image_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Uz7P_efWwM7YTjltSIk_GlNuOFkDJS6cYn2LrA842iiw3l_EdlMTjyd4KUdgFvN0aQpAY8KmuErw"
+            },
+            {
+                "title": "Монета десятилетнего юбилея",
+                "medal_id": 189,
+                "image_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fRPG91M7YVmIldTtOs7u3ZVI11ffKJWhG7trmxNWNxKKhNu6AlTMC6cQp07-U9Iim31Gx-0s_YWntZNjCmhJtTFU"
+            },
+            {
+                "title": "Global Offensive Badge",
+                "medal_id": 234,
+                "image_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuk2fDQQFp7a1FU4-rxLVc1h_LOcGQQvovux9fbwKKsMumAxz0CvMYk2b2To9Tz3gD6ux07ellOukQ"
+            }
+        ],
+        "csgoRankExpired": true,
+        "steamDota2WinRate": 35,
+        "steamTransactions": [
+            {
+                "date": "1628467200",
+                "product": "Steam Community Market",
+                "type": "Market Transaction",
+                "source": "Wallet",
+                "amount": "RM0.69"
+            },
+            {
+                "date": "1620259200",
+                "product": "Counter-Strike 2",
+                "type": "In-Game Purchase",
+                "source": "Wallet",
+                "amount": "RM4.00"
+            },
+            {
+                "date": "1620259200",
+                "product": "Counter-Strike 2",
+                "type": "In-Game Purchase",
+                "source": "Wallet",
+                "amount": "RM5.00"
+            },
+            {
+                "date": "1620259200",
+                "product": "Counter-Strike 2",
+                "type": "In-Game Purchase",
+                "source": "Wallet",
+                "amount": "RM10.40"
+            },
+            {
+                "date": "1620259200",
+                "product": "Steam Community Market",
+                "type": "Market Transaction",
+                "source": "Wallet",
+                "amount": "RM20.04"
+            },
+            {
+                "date": "1618876800",
+                "product": "Counter-Strike 2",
+                "type": "In-Game Purchase",
+                "source": "Wallet",
+                "amount": "RM8.00"
+            },
+            {
+                "date": "1618876800",
+                "product": "Counter-Strike 2",
+                "type": "In-Game Purchase",
+                "source": "Wallet",
+                "amount": "RM5.00"
+            },
+            {
+                "date": "1618876800",
+                "product": "Counter-Strike 2",
+                "type": "In-Game Purchase",
+                "source": "Wallet",
+                "amount": "RM1.00"
+            },
+            {
+                "date": "1618876800",
+                "product": "Counter-Strike 2",
+                "type": "In-Game Purchase",
+                "source": "Wallet",
+                "amount": "RM1.00"
+            },
+            {
+                "date": "1618876800",
+                "product": "Purchased RM15.00 Wallet Credit",
+                "type": "Purchase",
+                "source": "Visa\t\t\t\t\t\t\t\t\t\t\t\t\t**17",
+                "amount": "RM15.00"
+            },
+            {
+                "date": "1615593600",
+                "product": "Steam Community Market",
+                "type": "5 Market Transactions",
+                "source": "Wallet",
+                "amount": "RM15.89"
+            },
+            {
+                "date": "1615593600",
+                "product": "Purchased RM15.00 Wallet Credit",
+                "type": "Purchase",
+                "source": "Visa\t\t\t\t\t\t\t\t\t\t\t\t\t**17",
+                "amount": "RM15.00"
+            },
+            {
+                "date": "1615593600",
+                "product": "Steam Community Market",
+                "type": "Market Transaction",
+                "source": "Wallet",
+                "amount": "RM0.89"
+            },
+            {
+                "date": "1615507200",
+                "product": "Steam Community Market",
+                "type": "Market Transaction",
+                "source": "Wallet",
+                "amount": "RM101.71"
+            },
+            {
+                "date": "1615420800",
+                "product": "Steam Community Market",
+                "type": "3 Market Transactions",
+                "source": "Wallet",
+                "amount": "RM100.16"
+            },
+            {
+                "date": "1613779200",
+                "product": "Counter-Strike 2",
+                "type": "In-Game Purchase",
+                "source": "Wallet",
+                "amount": "RM10.40"
+            },
+            {
+                "date": "1613779200",
+                "product": "Counter-Strike 2",
+                "type": "In-Game Purchase",
+                "source": "Wallet",
+                "amount": "RM10.40"
+            },
+            {
+                "date": "1613779200",
+                "product": "Purchased RM15.00 Wallet Credit",
+                "type": "Purchase",
+                "source": "Visa\t\t\t\t\t\t\t\t\t\t\t\t\t**17",
+                "amount": "RM15.00"
+            },
+            {
+                "date": "1613692800",
+                "product": "Counter-Strike 2",
+                "type": "In-Game Purchase",
+                "source": "Wallet",
+                "amount": "RM10.40"
+            },
+            {
+                "date": "1613692800",
+                "product": "Counter-Strike 2",
+                "type": "In-Game Purchase",
+                "source": "Wallet",
+                "amount": "RM10.40"
+            },
+            {
+                "date": "1613692800",
+                "product": "Purchased RM30.00 Wallet Credit",
+                "type": "Purchase",
+                "source": "Visa\t\t\t\t\t\t\t\t\t\t\t\t\t**17",
+                "amount": "RM30.00"
+            }
+        ],
+        "hasPossibleBanInDota2": false,
+        "chineseAccount": false,
+        "csgoMapsRanks": [
+            {
+                "item_id": 109738761,
+                "rank_id": 0,
+                "map_id": 10,
+                "map_win": 1,
+                "map_name": "Office"
+            },
+            {
+                "item_id": 109738761,
+                "rank_id": 0,
+                "map_id": 6,
+                "map_win": 3,
+                "map_name": "Inferno"
+            },
+            {
+                "item_id": 109738761,
+                "rank_id": 0,
+                "map_id": 2,
+                "map_win": 6,
+                "map_name": "Mirage"
+            },
+            {
+                "item_id": 109738761,
+                "rank_id": 0,
+                "map_id": 1,
+                "map_win": 4,
+                "map_name": "Dust II"
+            }
+        ],
+        "csgoPremierElo": [],
+        "steamLifetimeTradeBan": false,
+        "canViewAccountLink": true,
+        "accountLinks": [
+            {
+                "link": "https://lzt.market/109738761/steam-preview?type=profiles",
+                "text": "Steam Preview: Profile",
+                "iconClass": "steam"
+            },
+            {
+                "link": "https://lzt.market/109738761/steam-preview?type=games",
+                "text": "Steam Preview: Games",
+                "iconClass": "steam"
+            }
+        ],
+        "accountLink": "https://lzt.market/109738761/steam-preview?type=profiles",
+        "itemOriginPhrase": "Перепродажа (Фишинг)",
+        "visitorIsAuthor": false,
+        "canAskDiscount": true,
+        "canCheckGuarantee": false,
+        "tags": [],
+        "customFields": {
+            "telegram": "INSPIRATION880",
+            "vk": "",
+            "discord": "",
+            "qiwi": "",
+            "steam": "",
+            "jabber": "",
+            "ban_reason": "",
+            "lztUnbanAmount": ""
+        },
+        "externalAuth": [],
+        "isTrusted": false,
+        "isIgnored": false,
+        "deposit": 0,
+        "extraPrices": [
+            {
+                "currency": "usd",
+                "price": 17.324751382049158
+            },
+            {
+                "currency": "eur",
+                "price": 16.085296395899135
+            }
+        ],
+        "canViewAccountLoginAndTempEmail": false,
+        "bumpSettings": {
+            "canBumpItem": false,
+            "canBumpItemGlobally": false,
+            "shortErrorPhrase": null,
+            "errorPhrase": null
+        },
+        "auction": null,
+        "needToRequireVideoToViewLoginData": false,
+        "reserve": {
+            "reserve_user_id": 0,
+            "reserve_date": 0
+        },
+        "description_html": "",
+        "description_html_en": "",
+        "seller": {
+            "user_id": 4987414,
+            "username": "Avsee",
+            "avatar_date": 0,
+            "is_banned": 0,
+            "display_style_group_id": 65,
+            "joined_date": 1644082368,
+            "sold_items_count": 4187,
+            "active_items_count": 46,
+            "restore_data": "{\"1\":43}",
+            "effective_last_activity": 1712144416,
+            "restore_percents": 1,
+            "isOnline": false,
+            "contacts": {
+                "telegram": "INSPIRATION880"
+            }
+        }
+    },
+    "canStickItem": false,
+    "canUnstickItem": false,
+    "canBuyItem": true,
+    "cannotBuyItemError": "",
+    "canCloseItem": false,
+    "canOpenItem": false,
+    "canReportItem": true,
+    "canEditItem": false,
+    "canDeleteItem": false,
+    "canCancelConfirmedBuy": false,
+    "canViewItemHistory": false,
+    "faveCount": false,
+    "isVisibleItem": true,
+    "canViewLoginData": false,
+    "sameItems": {
+        "10600488": {
+            "item_id": 10600488,
+            "item_state": "paid",
+            "category_id": 1,
+            "published_date": 1612299837,
+            "title": "Cs:go free rank: 17 + competitive (5x5)",
+            "description": "",
+            "price": 89,
+            "update_stat_date": 1664657604,
+            "refreshed_date": 1612299837,
+            "view_count": 27,
+            "is_sticky": 0,
+            "item_origin": "fishing",
+            "extended_guarantee": -1,
+            "nsb": 0,
+            "allow_ask_discount": 1,
+            "title_en": "Cs: go free rank: 17 + competitive (5x5)",
+            "description_en": "",
+            "email_type": "",
+            "is_reserved": 0,
+            "item_domain": "",
+            "active_auction": 0,
+            "resale_item_origin": "",
+            "steam_item_id": 10600488,
+            "account_country": "Indonesia",
+            "steam_register_date": 1596330041,
+            "steam_last_activity": 1612177042,
+            "account_full_games": {
+                "total": 6,
+                "list": {
+                    "444090": {
+                        "appid": 444090,
+                        "playtime_forever": 17,
+                        "playtime_windows_forever": 1017,
+                        "playtime_mac_forever": 0,
+                        "playtime_linux_forever": 0,
+                        "internal_game_id": 14,
+                        "abbr": "Paladins",
+                        "title": "Paladins",
+                        "parentGameId": 444090,
+                        "img": "https://steamcdn-a.akamaihd.net/steam/apps/444090/header.jpg"
+                    },
+                    "1085660": {
+                        "appid": 1085660,
+                        "playtime_forever": 0,
+                        "playtime_windows_forever": 0,
+                        "playtime_mac_forever": 0,
+                        "playtime_linux_forever": 0,
+                        "internal_game_id": 4744,
+                        "abbr": "Destiny 2",
+                        "title": "Destiny 2",
+                        "parentGameId": 1085660,
+                        "img": "https://steamcdn-a.akamaihd.net/steam/apps/1085660/header.jpg"
+                    }
+                }
+            },
+            "account_community_ban": 0,
+            "account_bans": "",
+            "steam_csgo_profile_rank": 17,
+            "account_balance": "Rp 0",
+            "account_csgo_rank_id": 4,
+            "last_update_time": 1612299857,
+            "steam_is_limited": 1,
+            "steam_level": 0,
+            "steam_friend_count": 2,
+            "steam_csgo_last_activity": 1612170015,
+            "steam_dota2_solo_mmr": 0,
+            "steam_csgo_ban_date": 0,
+            "steam_converted_balance": 0,
+            "steam_pubg_inv_value": 0,
+            "steam_csgo_inv_value": 92,
+            "steam_dota2_inv_value": 0,
+            "steam_tf2_inv_value": 0,
+            "steam_rust_inv_value": 0,
+            "steam_csgo_wingman_rank_id": 0,
+            "steam_game_count": 6,
+            "steam_steam_inv_value": 0,
+            "steam_inv_value": 91,
+            "steam_csgo_win_count": 36,
+            "steam_dota2_game_count": 0,
+            "steam_dota2_lose_count": 0,
+            "steam_dota2_win_count": 0,
+            "steam_hours_played_recently": "19.00",
+            "steam_faceit_level": 0,
+            "steam_points": 0,
+            "steam_last_transaction_date": 0,
+            "steam_relevant_game_count": 2,
+            "steam_gift_count": 0,
+            "steam_limit_spent": "",
+            "steam_dota2_behavior": 0,
+            "steam_has_faceit": 0,
+            "steam_mfa": 0,
+            "steam_market": 0,
+            "steam_market_restrictions": 0,
+            "steam_market_ban_end_date": 0,
+            "steam_unturned_inv_value": -1,
+            "steam_csgo_last_launched": 0,
+            "steam_kf2_inv_value": -1,
+            "steam_dst_inv_value": -1,
+            "steam_cs2_premier_elo": 0,
+            "steam_has_activated_keys": -1,
+            "steam_csgo_ban_type": 0,
+            "steam_rust_kill_player": 0,
+            "steam_rust_deaths": 0,
+            "steam_total_gifts_rub": 0,
+            "steam_total_refunds_rub": 0,
+            "steam_total_ingame_rub": 0,
+            "steam_total_games_rub": 0,
+            "steam_total_purchased_rub": 0,
+            "buyer_avatar_date": 0,
+            "buyer_user_group_id": 2,
+            "guarantee": {
+                "duration": 43200,
+                "class": "warningText Tooltip",
+                "durationPhrase": "12 часов",
+                "endDate": 1612391868,
+                "active": false,
+                "cancelled": true,
+                "remainingTime": -99754067,
+                "remainingTimePhrase": ""
+            },
+            "canViewLoginData": false,
+            "canUpdateItemStats": false,
+            "canViewEmailLoginData": false,
+            "showGetEmailCodeButton": false,
+            "buyer": {
+                "user_id": 3219998,
+                "operation_date": 1612348668,
+                "visitorIsBuyer": false,
+                "username": "savartovsk",
+                "is_banned": 0,
+                "display_style_group_id": 2,
+                "uniq_username_css": "",
+                "user_group_id": 2
+            },
+            "isPersonalAccount": false,
+            "sold_items_category_count": 11902,
+            "restore_items_category_count": 831,
+            "rub_price": 89,
+            "price_currency": "rub",
+            "canValidateAccount": false,
+            "canResellItemAfterPurchase": true,
+            "steamData": {
+                "steam_ban_type_id": []
+            },
+            "steamRelevantGameCount": 2,
+            "isSmallExf": false,
+            "account_last_activity": 1612177042,
+            "hasCsgo": false,
+            "hasDota2": false,
+            "hasPubg": false,
+            "hasTf2": false,
+            "hasRust": false,
+            "steam_csgo_ban_date_active": false,
+            "displayConvertedBalance": true,
+            "inventoryValue": {
+                "730": {
+                    "title": "CS2",
+                    "value": 92,
+                    "column": "steam_csgo_inv_value"
+                }
+            },
+            "csgoRankExpired": true,
+            "steamTransactions": [],
+            "hasPossibleBanInDota2": false,
+            "chineseAccount": false,
+            "csgoMapsRanks": [],
+            "csgoPremierElo": [],
+            "steamLifetimeTradeBan": false,
+            "canViewAccountLink": false,
+            "accountLinks": [],
+            "itemOriginPhrase": "Фишинг",
+            "isCurrent": false,
+            "reserve": {
+                "reserve_user_id": 0,
+                "reserve_date": 0
+            },
+            "description_html": "",
+            "description_html_en": "",
+            "seller": {
+                "user_id": 144848,
+                "username": "Winstyle",
+                "avatar_date": 0,
+                "is_banned": 0,
+                "display_style_group_id": 265,
+                "sold_items_count": 18579,
+                "active_items_count": 18,
+                "restore_data": "{\"14\":5,\"1\":831,\"11\":2,\"9\":90,\"3\":26,\"5\":7,\"13\":2}",
+                "restore_percents": 6
+            }
+        },
+        "10634234": {
+            "item_id": 10634234,
+            "item_state": "paid",
+            "category_id": 1,
+            "published_date": 1612379989,
+            "title": "Cs:go free rank: 17 + competitive (5x5)",
+            "description": "",
+            "price": 170,
+            "update_stat_date": 0,
+            "refreshed_date": 1612379989,
+            "view_count": 42,
+            "is_sticky": 0,
+            "item_origin": "resale",
+            "extended_guarantee": 1,
+            "nsb": 0,
+            "allow_ask_discount": 1,
+            "title_en": "Cs: go free rank: 17 + competitive (5x5)",
+            "description_en": "",
+            "email_type": "",
+            "is_reserved": 0,
+            "item_domain": "mail.ru",
+            "active_auction": 0,
+            "resale_item_origin": "fishing",
+            "steam_item_id": 10634234,
+            "account_country": "Indonesia",
+            "steam_register_date": 1596330041,
+            "steam_last_activity": 1612207192,
+            "account_full_games": {
+                "total": 6,
+                "list": {
+                    "444090": {
+                        "appid": 444090,
+                        "playtime_forever": 17,
+                        "playtime_windows_forever": 1017,
+                        "playtime_mac_forever": 0,
+                        "playtime_linux_forever": 0,
+                        "internal_game_id": 14,
+                        "abbr": "Paladins",
+                        "title": "Paladins",
+                        "parentGameId": 444090,
+                        "img": "https://steamcdn-a.akamaihd.net/steam/apps/444090/header.jpg"
+                    },
+                    "1085660": {
+                        "appid": 1085660,
+                        "playtime_forever": 0,
+                        "playtime_windows_forever": 0,
+                        "playtime_mac_forever": 0,
+                        "playtime_linux_forever": 0,
+                        "internal_game_id": 4744,
+                        "abbr": "Destiny 2",
+                        "title": "Destiny 2",
+                        "parentGameId": 1085660,
+                        "img": "https://steamcdn-a.akamaihd.net/steam/apps/1085660/header.jpg"
+                    }
+                }
+            },
+            "account_community_ban": 0,
+            "account_bans": "",
+            "steam_csgo_profile_rank": 17,
+            "account_balance": "Rp 0",
+            "account_csgo_rank_id": 4,
+            "last_update_time": 1612379989,
+            "steam_is_limited": 1,
+            "steam_level": 0,
+            "steam_friend_count": 2,
+            "steam_csgo_last_activity": 1612170015,
+            "steam_dota2_solo_mmr": 0,
+            "steam_csgo_ban_date": 0,
+            "steam_converted_balance": 0,
+            "steam_pubg_inv_value": 0,
+            "steam_csgo_inv_value": 0,
+            "steam_dota2_inv_value": 0,
+            "steam_tf2_inv_value": 0,
+            "steam_rust_inv_value": 0,
+            "steam_csgo_wingman_rank_id": 0,
+            "steam_game_count": 6,
+            "steam_steam_inv_value": 0,
+            "steam_inv_value": -1,
+            "steam_csgo_win_count": 36,
+            "steam_dota2_game_count": 0,
+            "steam_dota2_lose_count": 0,
+            "steam_dota2_win_count": 0,
+            "steam_hours_played_recently": "19.00",
+            "steam_faceit_level": 0,
+            "steam_points": 0,
+            "steam_last_transaction_date": 0,
+            "steam_relevant_game_count": 2,
+            "steam_gift_count": 0,
+            "steam_limit_spent": "",
+            "steam_dota2_behavior": 0,
+            "steam_has_faceit": 0,
+            "steam_mfa": 0,
+            "steam_market": 0,
+            "steam_market_restrictions": 0,
+            "steam_market_ban_end_date": 0,
+            "steam_unturned_inv_value": -1,
+            "steam_csgo_last_launched": 0,
+            "steam_kf2_inv_value": -1,
+            "steam_dst_inv_value": -1,
+            "steam_cs2_premier_elo": 0,
+            "steam_has_activated_keys": -1,
+            "steam_csgo_ban_type": 0,
+            "steam_rust_kill_player": 0,
+            "steam_rust_deaths": 0,
+            "steam_total_gifts_rub": 0,
+            "steam_total_refunds_rub": 0,
+            "steam_total_ingame_rub": 0,
+            "steam_total_games_rub": 0,
+            "steam_total_purchased_rub": 0,
+            "buyer_avatar_date": 1658241486,
+            "buyer_user_group_id": 2,
+            "guarantee": {
+                "duration": 259200,
+                "class": "greenText",
+                "durationPhrase": "3 дня",
+                "endDate": 1612878242,
+                "active": false,
+                "cancelled": false,
+                "remainingTime": -99267693,
+                "remainingTimePhrase": ""
+            },
+            "canViewLoginData": false,
+            "canUpdateItemStats": false,
+            "canViewEmailLoginData": false,
+            "showGetEmailCodeButton": false,
+            "buyer": {
+                "user_id": 3630422,
+                "operation_date": 1612619042,
+                "visitorIsBuyer": false,
+                "username": "andr23",
+                "is_banned": 0,
+                "display_style_group_id": 2,
+                "uniq_username_css": "",
+                "user_group_id": 2
+            },
+            "isPersonalAccount": false,
+            "sold_items_category_count": 198,
+            "restore_items_category_count": 7,
+            "rub_price": 170,
+            "price_currency": "rub",
+            "canValidateAccount": false,
+            "canResellItemAfterPurchase": true,
+            "steamData": {
+                "steam_ban_type_id": []
+            },
+            "steamRelevantGameCount": 2,
+            "isSmallExf": false,
+            "account_last_activity": 1612207192,
+            "hasCsgo": false,
+            "hasDota2": false,
+            "hasPubg": false,
+            "hasTf2": false,
+            "hasRust": false,
+            "steam_csgo_ban_date_active": false,
+            "displayConvertedBalance": true,
+            "inventoryValue": [],
+            "csgoRankExpired": true,
+            "steamTransactions": [],
+            "hasPossibleBanInDota2": false,
+            "chineseAccount": false,
+            "csgoMapsRanks": [],
+            "csgoPremierElo": [],
+            "steamLifetimeTradeBan": false,
+            "canViewAccountLink": false,
+            "accountLinks": [],
+            "itemOriginPhrase": "Перепродажа",
+            "isCurrent": false,
+            "reserve": {
+                "reserve_user_id": 0,
+                "reserve_date": 0
+            },
+            "description_html": "",
+            "description_html_en": "",
+            "seller": {
+                "user_id": 3219998,
+                "username": "savartovsk",
+                "avatar_date": 0,
+                "is_banned": 0,
+                "display_style_group_id": 2,
+                "sold_items_count": 191,
+                "active_items_count": 0,
+                "restore_data": "{\"1\": 7}",
+                "restore_percents": 3
+            }
+        },
+        "103750550": {
+            "item_id": 103750550,
+            "item_state": "paid",
+            "category_id": 1,
+            "published_date": 1709056004,
+            "title": "7878",
+            "description": "",
+            "price": 550,
+            "update_stat_date": 0,
+            "refreshed_date": 1709056004,
+            "view_count": 35,
+            "is_sticky": 0,
+            "item_origin": "fishing",
+            "extended_guarantee": -1,
+            "nsb": 0,
+            "allow_ask_discount": 1,
+            "title_en": "7878",
+            "description_en": "",
+            "email_type": "",
+            "is_reserved": 0,
+            "item_domain": "experimemail.com",
+            "active_auction": 0,
+            "resale_item_origin": "",
+            "steam_item_id": 103750550,
+            "account_country": "Malaysia",
+            "steam_register_date": 1596240000,
+            "steam_last_activity": 1708884882,
+            "account_full_games": {
+                "list": {
+                    "730": {
+                        "appid": 730,
+                        "playtime_forever": 691.75,
+                        "internal_game_id": 3,
+                        "abbr": "CS2 Prime",
+                        "title": "CS2 Prime",
+                        "parentGameId": 730,
+                        "img": "https://steamcdn-a.akamaihd.net/steam/apps/730/header.jpg"
+                    },
+                    "444090": {
+                        "appid": 444090,
+                        "playtime_forever": 16.95,
+                        "internal_game_id": 14,
+                        "abbr": "Paladins",
+                        "title": "Paladins",
+                        "parentGameId": 444090,
+                        "img": "https://steamcdn-a.akamaihd.net/steam/apps/444090/header.jpg"
+                    },
+                    "570": {
+                        "appid": 570,
+                        "playtime_forever": 16.53,
+                        "internal_game_id": 2,
+                        "abbr": "Dota 2",
+                        "title": "Dota 2",
+                        "parentGameId": 570,
+                        "img": "https://steamcdn-a.akamaihd.net/steam/apps/570/header.jpg"
+                    },
+                    "466240": {
+                        "appid": 466240,
+                        "playtime_forever": 0.75,
+                        "internal_game_id": 860,
+                        "abbr": "Deceit",
+                        "title": "Deceit",
+                        "parentGameId": 466240,
+                        "img": "https://steamcdn-a.akamaihd.net/steam/apps/466240/header.jpg"
+                    },
+                    "440": {
+                        "appid": 440,
+                        "playtime_forever": 0.28,
+                        "internal_game_id": 6,
+                        "abbr": "Team Fortress 2",
+                        "title": "Team Fortress 2",
+                        "parentGameId": 440,
+                        "img": "https://steamcdn-a.akamaihd.net/steam/apps/440/header.jpg"
+                    },
+                    "1085660": {
+                        "appid": 1085660,
+                        "playtime_forever": 0,
+                        "internal_game_id": 4744,
+                        "abbr": "Destiny 2",
+                        "title": "Destiny 2",
+                        "parentGameId": 1085660,
+                        "img": "https://steamcdn-a.akamaihd.net/steam/apps/1085660/header.jpg"
+                    }
+                },
+                "total": 13
+            },
+            "account_community_ban": 0,
+            "account_bans": "",
+            "steam_csgo_profile_rank": 17,
+            "account_balance": "RM0.02",
+            "account_csgo_rank_id": 13,
+            "last_update_time": 1709056004,
+            "steam_is_limited": 0,
+            "steam_level": 2,
+            "steam_friend_count": 40,
+            "steam_csgo_last_activity": 1708269701,
+            "steam_dota2_solo_mmr": 0,
+            "steam_csgo_ban_date": 0,
+            "steam_converted_balance": 0,
+            "steam_pubg_inv_value": -1,
+            "steam_csgo_inv_value": 662,
+            "steam_dota2_inv_value": -1,
+            "steam_tf2_inv_value": -1,
+            "steam_rust_inv_value": -1,
+            "steam_csgo_wingman_rank_id": 0,
+            "steam_game_count": 13,
+            "steam_steam_inv_value": -1,
+            "steam_inv_value": 662,
+            "steam_csgo_win_count": 12,
+            "steam_dota2_game_count": 17,
+            "steam_dota2_lose_count": 11,
+            "steam_dota2_win_count": 6,
+            "steam_hours_played_recently": "6.10",
+            "steam_faceit_level": 0,
+            "steam_points": 1832,
+            "steam_last_transaction_date": 1628467200,
+            "steam_relevant_game_count": 6,
+            "steam_gift_count": 0,
+            "steam_limit_spent": "",
+            "steam_dota2_behavior": 9100,
+            "steam_has_faceit": 0,
+            "steam_mfa": 0,
+            "steam_market": 0,
+            "steam_market_restrictions": 16544,
+            "steam_market_ban_end_date": 1710333598,
+            "steam_unturned_inv_value": -1,
+            "steam_csgo_last_launched": 1708261637,
+            "steam_kf2_inv_value": -1,
+            "steam_dst_inv_value": -1,
+            "steam_cs2_premier_elo": 11781,
+            "steam_has_activated_keys": 0,
+            "steam_csgo_ban_type": 0,
+            "steam_rust_kill_player": 0,
+            "steam_rust_deaths": 0,
+            "steam_total_gifts_rub": 0,
+            "steam_total_refunds_rub": 0,
+            "steam_total_ingame_rub": 0,
+            "steam_total_games_rub": 0,
+            "steam_total_purchased_rub": 0,
+            "buyer_avatar_date": 0,
+            "buyer_user_group_id": 2,
+            "guarantee": {
+                "duration": 43200,
+                "class": "warningText Tooltip",
+                "durationPhrase": "12 часов",
+                "endDate": 1709101170,
+                "active": false,
+                "cancelled": true,
+                "remainingTime": -3044765,
+                "remainingTimePhrase": "",
+                "cancelledReason": "resell",
+                "cancelledReasonPhrase": "Перепродажа"
+            },
+            "canViewLoginData": false,
+            "canUpdateItemStats": false,
+            "canViewEmailLoginData": false,
+            "showGetEmailCodeButton": false,
+            "buyer": {
+                "user_id": 4987414,
+                "operation_date": 1709057970,
+                "visitorIsBuyer": false,
+                "username": "Avsee",
+                "is_banned": 0,
+                "display_style_group_id": 65,
+                "uniq_username_css": "",
+                "user_group_id": 2
+            },
+            "isPersonalAccount": false,
+            "sold_items_category_count": 13200,
+            "restore_items_category_count": 1466,
+            "rub_price": 550,
+            "price_currency": "rub",
+            "canValidateAccount": false,
+            "canResellItemAfterPurchase": true,
+            "steamData": {
+                "steam_ban_type_id": []
+            },
+            "steamRelevantGameCount": 6,
+            "isSmallExf": false,
+            "account_last_activity": 1708884882,
+            "hasCsgo": true,
+            "hasDota2": true,
+            "hasPubg": false,
+            "hasTf2": true,
+            "hasRust": false,
+            "steam_csgo_ban_date_active": false,
+            "displayConvertedBalance": true,
+            "inventoryValue": {
+                "730": {
+                    "title": "CS2",
+                    "value": 662,
+                    "column": "steam_csgo_inv_value"
+                }
+            },
+            "steamCsgoMedals": [
+                {
+                    "title": "2021 Service Medal",
+                    "medal_id": 242,
+                    "image_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Ux7P_efWwMuozvkdOJxafyNuLUlDMFupEl3rvH9tWj0FXnqEJuam6gIoOUIAc6NEaQpAZnUMgZRQ"
+                },
+                {
+                    "title": "Global Offensive Badge",
+                    "medal_id": 234,
+                    "image_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuk2fDQQFp7a1FU4-rxLVc1h_LOcGQQvovux9fbwKKsMumAxz0CvMYk2b2To9Tz3gD6ux07ellOukQ"
+                },
+                {
+                    "title": "2023 Service Medal",
+                    "medal_id": 240,
+                    "image_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Uz7P_efWwM7YTjltSIk_GlNuOFkDJS6cYn2LrA842iiw3l_EdlMTjyd4KUdgFvN0aQpAY8KmuErw"
+                },
+                {
+                    "title": "Монета десятилетнего юбилея",
+                    "medal_id": 189,
+                    "image_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fRPG91M7YVmIldTtOs7u3ZVI11ffKJWhG7trmxNWNxKKhNu6AlTMC6cQp07-U9Iim31Gx-0s_YWntZNjCmhJtTFU"
+                },
+                {
+                    "title": "2022 Service Medal",
+                    "medal_id": 238,
+                    "image_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Uy7P_efWwM7Yy1xNndkqOkYe-EwToFupcojLiQ8N2n31Li-0U_ajj1II7Ae1I7YEaQpAaH9zkJ-Q"
+                }
+            ],
+            "csgoRankExpired": true,
+            "steamDota2WinRate": 35,
+            "steamTransactions": [
+                {
+                    "date": "1628467200",
+                    "product": "Steam Community Market",
+                    "type": "Market Transaction",
+                    "source": "Wallet",
+                    "amount": "RM0.69"
+                },
+                {
+                    "date": "1620259200",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM4.00"
+                },
+                {
+                    "date": "1620259200",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM5.00"
+                },
+                {
+                    "date": "1620259200",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM10.40"
+                },
+                {
+                    "date": "1620259200",
+                    "product": "Steam Community Market",
+                    "type": "Market Transaction",
+                    "source": "Wallet",
+                    "amount": "RM20.04"
+                },
+                {
+                    "date": "1618876800",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM8.00"
+                },
+                {
+                    "date": "1618876800",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM5.00"
+                },
+                {
+                    "date": "1618876800",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM1.00"
+                },
+                {
+                    "date": "1618876800",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM1.00"
+                },
+                {
+                    "date": "1618876800",
+                    "product": "Purchased RM15.00 Wallet Credit",
+                    "type": "Purchase",
+                    "source": "Visa\t\t\t\t\t\t\t\t\t\t\t\t\t**17",
+                    "amount": "RM15.00"
+                },
+                {
+                    "date": "1615593600",
+                    "product": "Steam Community Market",
+                    "type": "5 Market Transactions",
+                    "source": "Wallet",
+                    "amount": "RM15.89"
+                },
+                {
+                    "date": "1615593600",
+                    "product": "Purchased RM15.00 Wallet Credit",
+                    "type": "Purchase",
+                    "source": "Visa\t\t\t\t\t\t\t\t\t\t\t\t\t**17",
+                    "amount": "RM15.00"
+                },
+                {
+                    "date": "1615593600",
+                    "product": "Steam Community Market",
+                    "type": "Market Transaction",
+                    "source": "Wallet",
+                    "amount": "RM0.89"
+                },
+                {
+                    "date": "1615507200",
+                    "product": "Steam Community Market",
+                    "type": "Market Transaction",
+                    "source": "Wallet",
+                    "amount": "RM101.71"
+                },
+                {
+                    "date": "1615420800",
+                    "product": "Steam Community Market",
+                    "type": "3 Market Transactions",
+                    "source": "Wallet",
+                    "amount": "RM100.16"
+                },
+                {
+                    "date": "1613779200",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM10.40"
+                },
+                {
+                    "date": "1613779200",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM10.40"
+                },
+                {
+                    "date": "1613779200",
+                    "product": "Purchased RM15.00 Wallet Credit",
+                    "type": "Purchase",
+                    "source": "Visa\t\t\t\t\t\t\t\t\t\t\t\t\t**17",
+                    "amount": "RM15.00"
+                },
+                {
+                    "date": "1613692800",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM10.40"
+                },
+                {
+                    "date": "1613692800",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM10.40"
+                },
+                {
+                    "date": "1613692800",
+                    "product": "Purchased RM30.00 Wallet Credit",
+                    "type": "Purchase",
+                    "source": "Visa\t\t\t\t\t\t\t\t\t\t\t\t\t**17",
+                    "amount": "RM30.00"
+                }
+            ],
+            "hasPossibleBanInDota2": false,
+            "chineseAccount": false,
+            "csgoMapsRanks": [
+                {
+                    "item_id": 103750550,
+                    "rank_id": 0,
+                    "map_id": 10,
+                    "map_win": 1,
+                    "map_name": "Office"
+                },
+                {
+                    "item_id": 103750550,
+                    "rank_id": 0,
+                    "map_id": 6,
+                    "map_win": 3,
+                    "map_name": "Inferno"
+                },
+                {
+                    "item_id": 103750550,
+                    "rank_id": 0,
+                    "map_id": 2,
+                    "map_win": 6,
+                    "map_name": "Mirage"
+                },
+                {
+                    "item_id": 103750550,
+                    "rank_id": 0,
+                    "map_id": 1,
+                    "map_win": 4,
+                    "map_name": "Dust II"
+                }
+            ],
+            "csgoPremierElo": {
+                "big": 11,
+                "small": "781",
+                "brand": "rare"
+            },
+            "steamLifetimeTradeBan": false,
+            "canViewAccountLink": false,
+            "accountLinks": [],
+            "itemOriginPhrase": "Фишинг",
+            "isCurrent": false,
+            "reserve": {
+                "reserve_user_id": 0,
+                "reserve_date": 0
+            },
+            "description_html": "",
+            "description_html_en": "",
+            "seller": {
+                "user_id": 2215017,
+                "username": "loqpes",
+                "avatar_date": 1690135355,
+                "is_banned": 0,
+                "display_style_group_id": 265,
+                "sold_items_count": 10206,
+                "active_items_count": 79,
+                "restore_data": "{\"2\":2,\"1\":1466}",
+                "restore_percents": 11
+            }
+        },
+        "109738761": {
+            "item_id": 109738761,
+            "item_state": "active",
+            "category_id": 1,
+            "published_date": 1712141832,
+            "title": "Cs 2 prime 5 medals",
+            "description": "",
+            "price": 1599,
+            "update_stat_date": 0,
+            "refreshed_date": 1712141832,
+            "view_count": 3,
+            "is_sticky": 0,
+            "item_origin": "resale",
+            "extended_guarantee": 0,
+            "nsb": 0,
+            "allow_ask_discount": 1,
+            "title_en": "Cs 2 prime 5 medals",
+            "description_en": "",
+            "email_type": "",
+            "is_reserved": 0,
+            "item_domain": "experimemail.com",
+            "active_auction": 0,
+            "resale_item_origin": "fishing",
+            "steam_item_id": 109738761,
+            "account_country": "Malaysia",
+            "steam_register_date": 1596240000,
+            "steam_last_activity": 1708858701,
+            "account_full_games": {
+                "list": {
+                    "730": {
+                        "appid": 730,
+                        "playtime_forever": 691.75,
+                        "internal_game_id": 3,
+                        "abbr": "CS2 Prime",
+                        "title": "CS2 Prime",
+                        "parentGameId": 730,
+                        "img": "https://steamcdn-a.akamaihd.net/steam/apps/730/header.jpg"
+                    },
+                    "444090": {
+                        "appid": 444090,
+                        "playtime_forever": 16.95,
+                        "internal_game_id": 14,
+                        "abbr": "Paladins",
+                        "title": "Paladins",
+                        "parentGameId": 444090,
+                        "img": "https://steamcdn-a.akamaihd.net/steam/apps/444090/header.jpg"
+                    },
+                    "570": {
+                        "appid": 570,
+                        "playtime_forever": 16.53,
+                        "internal_game_id": 2,
+                        "abbr": "Dota 2",
+                        "title": "Dota 2",
+                        "parentGameId": 570,
+                        "img": "https://steamcdn-a.akamaihd.net/steam/apps/570/header.jpg"
+                    },
+                    "466240": {
+                        "appid": 466240,
+                        "playtime_forever": 0.75,
+                        "internal_game_id": 860,
+                        "abbr": "Deceit",
+                        "title": "Deceit",
+                        "parentGameId": 466240,
+                        "img": "https://steamcdn-a.akamaihd.net/steam/apps/466240/header.jpg"
+                    },
+                    "440": {
+                        "appid": 440,
+                        "playtime_forever": 0.28,
+                        "internal_game_id": 6,
+                        "abbr": "Team Fortress 2",
+                        "title": "Team Fortress 2",
+                        "parentGameId": 440,
+                        "img": "https://steamcdn-a.akamaihd.net/steam/apps/440/header.jpg"
+                    },
+                    "1085660": {
+                        "appid": 1085660,
+                        "playtime_forever": 0,
+                        "internal_game_id": 4744,
+                        "abbr": "Destiny 2",
+                        "title": "Destiny 2",
+                        "parentGameId": 1085660,
+                        "img": "https://steamcdn-a.akamaihd.net/steam/apps/1085660/header.jpg"
+                    }
+                },
+                "total": 13
+            },
+            "account_community_ban": 0,
+            "account_bans": "",
+            "steam_csgo_profile_rank": 17,
+            "account_balance": "RM0.02",
+            "account_csgo_rank_id": 13,
+            "last_update_time": 1712141832,
+            "steam_is_limited": 0,
+            "steam_level": 2,
+            "steam_friend_count": 40,
+            "steam_csgo_last_activity": 1708269701,
+            "steam_dota2_solo_mmr": 0,
+            "steam_csgo_ban_date": 0,
+            "steam_converted_balance": 0,
+            "steam_pubg_inv_value": -1,
+            "steam_csgo_inv_value": 0,
+            "steam_dota2_inv_value": -1,
+            "steam_tf2_inv_value": -1,
+            "steam_rust_inv_value": -1,
+            "steam_csgo_wingman_rank_id": 0,
+            "steam_game_count": 13,
+            "steam_steam_inv_value": -1,
+            "steam_inv_value": 0,
+            "steam_csgo_win_count": 12,
+            "steam_dota2_game_count": 17,
+            "steam_dota2_lose_count": 11,
+            "steam_dota2_win_count": 6,
+            "steam_hours_played_recently": "0.00",
+            "steam_faceit_level": 0,
+            "steam_points": 1832,
+            "steam_last_transaction_date": 1628467200,
+            "steam_relevant_game_count": 6,
+            "steam_gift_count": 0,
+            "steam_limit_spent": "",
+            "steam_dota2_behavior": 9100,
+            "steam_has_faceit": 0,
+            "steam_mfa": 0,
+            "steam_market": 0,
+            "steam_market_restrictions": 16544,
+            "steam_market_ban_end_date": 1713437802,
+            "steam_unturned_inv_value": -1,
+            "steam_csgo_last_launched": 1708261637,
+            "steam_kf2_inv_value": -1,
+            "steam_dst_inv_value": -1,
+            "steam_cs2_premier_elo": 0,
+            "steam_has_activated_keys": 0,
+            "steam_csgo_ban_type": 0,
+            "steam_rust_kill_player": 0,
+            "steam_rust_deaths": 0,
+            "steam_total_gifts_rub": 0,
+            "steam_total_refunds_rub": 0,
+            "steam_total_ingame_rub": 1479,
+            "steam_total_games_rub": 0,
+            "steam_total_purchased_rub": 0,
+            "buyer_avatar_date": null,
+            "buyer_user_group_id": null,
+            "buyer_secondary_group_ids": null,
+            "guarantee": {
+                "duration": 86400,
+                "class": "simpleGuarantee",
+                "durationPhrase": "24 часа",
+                "endDate": null,
+                "active": null,
+                "cancelled": null,
+                "remainingTime": null
+            },
+            "canViewLoginData": false,
+            "canUpdateItemStats": false,
+            "canViewEmailLoginData": false,
+            "showGetEmailCodeButton": false,
+            "buyer": null,
+            "isPersonalAccount": false,
+            "sold_items_category_count": 4245,
+            "restore_items_category_count": 43,
+            "rub_price": 1599,
+            "price_currency": "rub",
+            "canValidateAccount": false,
+            "canResellItemAfterPurchase": true,
+            "steamData": {
+                "steam_ban_type_id": []
+            },
+            "steamRelevantGameCount": 6,
+            "isSmallExf": false,
+            "account_last_activity": 1708858701,
+            "hasCsgo": true,
+            "hasDota2": true,
+            "hasPubg": false,
+            "hasTf2": true,
+            "hasRust": false,
+            "steam_csgo_ban_date_active": false,
+            "displayConvertedBalance": true,
+            "inventoryValue": {
+                "730": {
+                    "title": "CS2",
+                    "value": 0,
+                    "column": "steam_csgo_inv_value"
+                }
+            },
+            "steamCsgoMedals": [
+                {
+                    "title": "2021 Service Medal",
+                    "medal_id": 242,
+                    "image_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Ux7P_efWwMuozvkdOJxafyNuLUlDMFupEl3rvH9tWj0FXnqEJuam6gIoOUIAc6NEaQpAZnUMgZRQ"
+                },
+                {
+                    "title": "2022 Service Medal",
+                    "medal_id": 238,
+                    "image_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Uy7P_efWwM7Yy1xNndkqOkYe-EwToFupcojLiQ8N2n31Li-0U_ajj1II7Ae1I7YEaQpAaH9zkJ-Q"
+                },
+                {
+                    "title": "2023 Service Medal",
+                    "medal_id": 240,
+                    "image_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Uz7P_efWwM7YTjltSIk_GlNuOFkDJS6cYn2LrA842iiw3l_EdlMTjyd4KUdgFvN0aQpAY8KmuErw"
+                },
+                {
+                    "title": "Монета десятилетнего юбилея",
+                    "medal_id": 189,
+                    "image_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fRPG91M7YVmIldTtOs7u3ZVI11ffKJWhG7trmxNWNxKKhNu6AlTMC6cQp07-U9Iim31Gx-0s_YWntZNjCmhJtTFU"
+                },
+                {
+                    "title": "Global Offensive Badge",
+                    "medal_id": 234,
+                    "image_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuk2fDQQFp7a1FU4-rxLVc1h_LOcGQQvovux9fbwKKsMumAxz0CvMYk2b2To9Tz3gD6ux07ellOukQ"
+                }
+            ],
+            "csgoRankExpired": true,
+            "steamDota2WinRate": 35,
+            "steamTransactions": [
+                {
+                    "date": "1628467200",
+                    "product": "Steam Community Market",
+                    "type": "Market Transaction",
+                    "source": "Wallet",
+                    "amount": "RM0.69"
+                },
+                {
+                    "date": "1620259200",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM4.00"
+                },
+                {
+                    "date": "1620259200",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM5.00"
+                },
+                {
+                    "date": "1620259200",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM10.40"
+                },
+                {
+                    "date": "1620259200",
+                    "product": "Steam Community Market",
+                    "type": "Market Transaction",
+                    "source": "Wallet",
+                    "amount": "RM20.04"
+                },
+                {
+                    "date": "1618876800",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM8.00"
+                },
+                {
+                    "date": "1618876800",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM5.00"
+                },
+                {
+                    "date": "1618876800",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM1.00"
+                },
+                {
+                    "date": "1618876800",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM1.00"
+                },
+                {
+                    "date": "1618876800",
+                    "product": "Purchased RM15.00 Wallet Credit",
+                    "type": "Purchase",
+                    "source": "Visa\t\t\t\t\t\t\t\t\t\t\t\t\t**17",
+                    "amount": "RM15.00"
+                },
+                {
+                    "date": "1615593600",
+                    "product": "Steam Community Market",
+                    "type": "5 Market Transactions",
+                    "source": "Wallet",
+                    "amount": "RM15.89"
+                },
+                {
+                    "date": "1615593600",
+                    "product": "Purchased RM15.00 Wallet Credit",
+                    "type": "Purchase",
+                    "source": "Visa\t\t\t\t\t\t\t\t\t\t\t\t\t**17",
+                    "amount": "RM15.00"
+                },
+                {
+                    "date": "1615593600",
+                    "product": "Steam Community Market",
+                    "type": "Market Transaction",
+                    "source": "Wallet",
+                    "amount": "RM0.89"
+                },
+                {
+                    "date": "1615507200",
+                    "product": "Steam Community Market",
+                    "type": "Market Transaction",
+                    "source": "Wallet",
+                    "amount": "RM101.71"
+                },
+                {
+                    "date": "1615420800",
+                    "product": "Steam Community Market",
+                    "type": "3 Market Transactions",
+                    "source": "Wallet",
+                    "amount": "RM100.16"
+                },
+                {
+                    "date": "1613779200",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM10.40"
+                },
+                {
+                    "date": "1613779200",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM10.40"
+                },
+                {
+                    "date": "1613779200",
+                    "product": "Purchased RM15.00 Wallet Credit",
+                    "type": "Purchase",
+                    "source": "Visa\t\t\t\t\t\t\t\t\t\t\t\t\t**17",
+                    "amount": "RM15.00"
+                },
+                {
+                    "date": "1613692800",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM10.40"
+                },
+                {
+                    "date": "1613692800",
+                    "product": "Counter-Strike 2",
+                    "type": "In-Game Purchase",
+                    "source": "Wallet",
+                    "amount": "RM10.40"
+                },
+                {
+                    "date": "1613692800",
+                    "product": "Purchased RM30.00 Wallet Credit",
+                    "type": "Purchase",
+                    "source": "Visa\t\t\t\t\t\t\t\t\t\t\t\t\t**17",
+                    "amount": "RM30.00"
+                }
+            ],
+            "hasPossibleBanInDota2": false,
+            "chineseAccount": false,
+            "csgoMapsRanks": [
+                {
+                    "item_id": 109738761,
+                    "rank_id": 0,
+                    "map_id": 10,
+                    "map_win": 1,
+                    "map_name": "Office"
+                },
+                {
+                    "item_id": 109738761,
+                    "rank_id": 0,
+                    "map_id": 6,
+                    "map_win": 3,
+                    "map_name": "Inferno"
+                },
+                {
+                    "item_id": 109738761,
+                    "rank_id": 0,
+                    "map_id": 2,
+                    "map_win": 6,
+                    "map_name": "Mirage"
+                },
+                {
+                    "item_id": 109738761,
+                    "rank_id": 0,
+                    "map_id": 1,
+                    "map_win": 4,
+                    "map_name": "Dust II"
+                }
+            ],
+            "csgoPremierElo": [],
+            "steamLifetimeTradeBan": false,
+            "canViewAccountLink": true,
+            "accountLinks": [
+                {
+                    "link": "https://lzt.market/109738761/steam-preview?type=profiles",
+                    "text": "Steam Preview: Profile",
+                    "iconClass": "steam"
+                },
+                {
+                    "link": "https://lzt.market/109738761/steam-preview?type=games",
+                    "text": "Steam Preview: Games",
+                    "iconClass": "steam"
+                }
+            ],
+            "accountLink": "https://lzt.market/109738761/steam-preview?type=profiles",
+            "itemOriginPhrase": "Перепродажа",
+            "isCurrent": true,
+            "reserve": {
+                "reserve_user_id": 0,
+                "reserve_date": 0
+            },
+            "description_html": "",
+            "description_html_en": "",
+            "seller": {
+                "user_id": 4987414,
+                "username": "Avsee",
+                "avatar_date": 0,
+                "is_banned": 0,
+                "display_style_group_id": 65,
+                "sold_items_count": 4187,
+                "active_items_count": 46,
+                "restore_data": "{\"1\":43}",
+                "restore_percents": 1
+            }
+        }
+    },
+    "sameItemsCount": 3,
+    "showToFavouritesButton": true,
+    "itemLink": "https://lzt.market/109738761/",
+    "canChangeOwner": false,
+    "system_info": {
+        "visitor_id": 3624293,
+        "time": 1712145935
+    }
+}
